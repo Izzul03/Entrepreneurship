@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UserApplication<Staff>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.csc3402.lab.staff.UserApplication",
+            "projectName": "Staff",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
